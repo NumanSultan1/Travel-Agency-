@@ -1,0 +1,54 @@
+
+
+nav{
+    height:50px;
+    padding:10px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    padding-top: 20px; 
+}
+nav a h3{
+    text-align: left;
+}
+a{
+    margin: 30px 30px;
+    color:whitesmoke;
+}
+
+a:hover{
+    color:darkgray;
+    cursor: pointer;
+}
+
+.hero{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    text-align: center;
+}
+
+img{
+    width: 350px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+img:hover{
+    width:450px;
+    height:350px;
+    cursor: pointer;
+}
+
+footer{
+    margin-top:50px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    height:50px;
+}

@@ -1,0 +1,56 @@
+nav{
+    height:50px;
+    padding:10px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    padding-top: 20px; 
+}
+nav a h3{
+    text-align: left;
+}
+a{
+    margin: 30px 30px;
+    color:whitesmoke;
+}
+
+a:hover{
+    color:darkgray;
+    cursor: pointer;
+}
+
+.hero{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+    gap:40px;
+}
+.packages{
+    border: solid black 2px;
+    border-radius: 20%;
+    border-color: darkblue;
+    background-color: cornsilk;
+
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 5%;
+}
+
+img:hover{
+    width: 700px;
+    height: 700px;
+    border-radius:5%;
+    cursor: pointer;
+}
+h1{
+    color:darkblue;
+    font-size: 48px;
+}
+footer{
+    margin-top:50px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    height:50px;
+}

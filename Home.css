@@ -1,0 +1,45 @@
+body{
+    background-image: url(background.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav{
+    height:50px;
+    padding:10px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    padding-top: 20px; 
+}
+nav a h3{
+    text-align: left;
+}
+a{
+    margin: 30px 30px;
+    color:whitesmoke;
+}
+
+a:hover{
+    color:goldenrod;
+    cursor: pointer;
+}
+
+.hero{
+    text-align: center
+}
+.hero h1{
+    color:darkblue;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+img{
+    width:fit-content;
+    
+}
+
+footer{
+    margin-top:650px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    height:50px;
+}

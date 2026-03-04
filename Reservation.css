@@ -1,0 +1,59 @@
+nav{
+    height:50px;
+    padding:10px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    padding-top: 20px; 
+}
+nav a h3{
+    text-align: left;
+}
+a{
+    margin: 30px 30px;
+    color:whitesmoke;
+}
+
+a:hover{
+    color:darkgray;
+    cursor: pointer;
+}
+
+h1{
+    color:darkblue;
+    font-size: 48px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.hero{
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    display: grid;
+
+}
+.reservation-form{
+    text-align: center;
+    display: grid;
+    gap:10px;
+}
+hr{
+    width: 700px;
+    text-align: center;
+    color:burlywood;
+}
+label{
+    text-align: left;
+    font-size: 18px;
+}
+input{
+    padding:10px;
+}
+
+footer{
+    margin-top:250px;
+    background-color: rgb(55, 80, 83);
+    text-align: center;
+    height:50px;
+}
