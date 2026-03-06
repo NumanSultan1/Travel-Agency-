@@ -1,4 +1,4 @@
-# 🌍 Travel Agency Website
+# 🌍 MGS Travel Agency
 
 ![Travel Agency Banner](banner.png)
 
