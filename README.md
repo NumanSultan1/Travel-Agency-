@@ -1,64 +1,45 @@
-# 🌍 Wanderlust Travel Agency
+# 🌍 Travel Agency Website
 
 ![Travel Agency Banner](banner.png)
 
-Welcome to the **Wanderlust Travel Agency** website! This project is a premium, responsive web application designed to showcase beautiful travel destinations, offer various travel packages, and provide a seamless reservation experience.
+This is a responsive Travel Agency website developed as part of my coursework.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
--   **🏙️ Elegant Home Page**: A stunning landing page with a hero section that captures the essence of travel.
--   **🎒 Curated Packages**: Explore a variety of travel packages with clear pricing and details.
--   **🖼️ Visual Gallery**: A high-quality gallery showcasing breathtaking locations from around the world.
--   **📝 Seamless Reservations**: An interactive and user-friendly reservation form for booking your next adventure.
--   **📱 Fully Responsive**: Optimized for all devices, ensuring a great experience on mobile, tablet, and desktop.
+- **Home page** with hero section and navigation
+- **Travel packages page** with pricing
+- **Interactive gallery page**
+- **Reservation form** with validation
+- **Responsive design** for mobile and desktop
 
 ---
 
 ## 🛠️ Built With
 
-The project leverages modern web technologies to provide a fast and reliable user experience:
-
--   **HTML5**: Semantic structure for better SEO and accessibility.
--   **CSS3**: Custom styling with advanced layouts.
--   **Flexbox & CSS Grid**: Ensuring a robust and responsive design system.
--   **Google Fonts**: Premium typography for a modern look.
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo
 
-To explore the project locally:
-
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/NumanSultan1/Travel-Agency-.git
-    ```
-2.  **Navigate to the project directory**:
-    ```bash
-    cd Travel-Agency-
-    ```
-3.  **Open `index.html`** in your favorite browser.
+[Click here to view the website](https://github.com/NumanSultan1/Travel-Agency-)
 
 ---
 
 ## 📌 Project Purpose
 
-This project was meticulously crafted as part of my coursework to master **Front-End Development** and **Responsive Web Design** principles. It demonstrates the ability to create visually appealing and functional user interfaces.
+This project was created to practice front-end development skills and responsive web design.
 
 ---
 
-## 👤 Author
+### 👤 Author
 
 **Syed Numan Sultan**
-*Front-End Developer & UI/UX Enthusiast*
-
----
-
-## 📄 License
-
-This project is open-source. Feel free to use it for inspiration or educational purposes.
 
 ---
 
